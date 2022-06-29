@@ -1,5 +1,3 @@
-<h2 align="left">Connect with us:</h2>
-
-<a href="https://www.instagram.com/ziraflix/" target="blank">
-      <img align="center" src=""/>
+<a href="https://www.discord.gg/kYFy8JwVfd/" target="blank">
+      <img align="center" src="https://cdn.discordapp.com/attachments/917183221375049728/991846749763285013/bannerofjiasjhsa.png"/>
 </a>
