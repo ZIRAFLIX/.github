@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="[https://cdn.discordapp.com/attachments/917183221375049728/991846749763285013/bannerofjiasjhsa2.png](https://cdn.discordapp.com/attachments/917183221375049728/991849128361467953/unknown.jpg)">
+    <img src="https://cdn.discordapp.com/attachments/917183221375049728/991850380491227227/unknown2.jpg">
 </p>
